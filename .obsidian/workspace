@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "601dbf87c44d57ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a467c17725d99e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7198d2902b11f5e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a5353a5b6588727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee127ed2512a6528",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc116ba1ae98a995",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382
+  },
+  "right": {
+    "id": "9d9e6fc0e34b5412",
+    "type": "split",
+    "children": [
+      {
+        "id": "b658522f8d47e238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb13bca3d462ce9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c2aaf69e20c02f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58a467c17725d99e",
+  "lastOpenFiles": [
+    "README.md",
+    "TODO.md",
+    "codeforces/round765/CF 1625D. Binary Spiders.md",
+    "算法模板/数学/分解质因数.md",
+    "leetcode/周赛/WC 272. 使数组 K 递增的最少操作次数.md",
+    "算法模板/基础算法/二分.md",
+    "算法模板/基础数据结构/栈.md",
+    "算法模板/DP/线性DP.md",
+    "算法模板/搜索与图论/中级/最近公共祖先.md",
+    "算法模板/搜索与图论/中级/拓扑排序.md"
+  ]
+}
