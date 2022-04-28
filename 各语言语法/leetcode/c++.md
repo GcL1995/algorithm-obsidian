@@ -1,5 +1,5 @@
 ## 模板
-~~~
+~~~c++
 #define x first
 #define y second
 

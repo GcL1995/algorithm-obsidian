@@ -86,3 +86,5 @@ public:
 [[LC 1444. 切披萨的方案数]]
 [[WC 286. 从栈中取出 K 个硬币的最大面值和]]
 [[WC 264.并行课程 III]]
+[[CF 1611D. Weights Assignment For Tree Edges]]
+[[CF 1667B. Optimal Partition]]

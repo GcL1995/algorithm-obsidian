@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "codeforces/constructive_algorithm/1500/CF 1426 D. Non-zero Segments.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "codeforces/constructive_algorithm/1500/CF 1426 D. Non-zero Segments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "58a467c17725d99e",
   "lastOpenFiles": [
-    "README.md",
-    "TODO.md",
-    "codeforces/round765/CF 1625D. Binary Spiders.md",
-    "算法模板/数学/分解质因数.md",
-    "leetcode/周赛/WC 272. 使数组 K 递增的最少操作次数.md",
-    "算法模板/基础算法/二分.md",
-    "算法模板/基础数据结构/栈.md",
-    "算法模板/DP/线性DP.md",
-    "算法模板/搜索与图论/中级/最近公共祖先.md",
-    "算法模板/搜索与图论/中级/拓扑排序.md"
+    "codeforces/constructive_algorithm/1500/CF 1426 D. Non-zero Segments.md",
+    "leetcode/2200/LC 992. K 个不同整数的子数组.md",
+    "leetcode/2100/LC 906. 超级回文数.md",
+    "leetcode/周赛/WC 268. k镜像数字的和.md",
+    "codeforces/constructive_algorithm/1500/CF 1439 A1. Binary Table (Easy Version).md",
+    "leetcode/2100/LC 1568. 使陆地分离的最少天数.md",
+    "算法模板/搜索与图论/高级/强连通分量.md",
+    "算法模板/搜索与图论/中级/最近公共祖先-倍增法.md",
+    "算法模板/搜索与图论/初级/最近公共祖先-向上标记法.md",
+    "算法模板/基础算法/字符串/KMP.md"
   ]
 }

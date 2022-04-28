@@ -1,4 +1,4 @@
-# 打表
+## 打表
 ~~~c++
 /*
 通过声明静态变量，调用静态函数(同时是lambda函数)方式
@@ -14,7 +14,7 @@ int init = []() { // 预处理每个数的所有因子，时间复杂度 O(MlogM
 }();
 ~~~
 
-# lambda
+## lambda
 ~~~c++
 function<vector<LL>(vector<vector<PII>>&, int)> dijkstra = [&](vector<vector<PII>> &ne, int start){
 	vector<LL> dist(n, 1e10); 
@@ -45,3 +45,41 @@ function<vector<LL>(vector<vector<PII>>&, int)> dijkstra = [&](vector<vector<PII
 	return dist; 
 };
 ~~~
+
+## 优先队列
+### 自定义函数
+~~~c++
+auto cmp = [&](const pair<int, int>& x, const pair<int, int>& y) {
+	return arr[x.first] * arr[y.second] > arr[x.second] * arr[y.first];
+};
+priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> heap(cmp);
+~~~
+
+### 重载运算符一
+~~~c++
+template <typename T>
+class cmp {
+public:
+    bool operator()(T a, T b) {
+        return w[a.x] * w[b.y] > w[a.y] * w[b.x];
+    }
+};
+priority_queue<PII, vector<PII>, ::cmp<PII>> heap;
+~~~
+### 重载运算符二
+~~~c++
+struct PIS {
+    int x;
+    string y;
+};
+bool operator < (PIS a, PIS b) {
+    return a.x == b.x? a.y < b.y: a.x > b.x;
+}
+
+bool operator > (PIS a, PIS b) {
+    return a.x == b.x? a.y > b.y: a.x < b.x;
+}
+priority_queue<PIS, vector<PIS>, greater<PIS>> heap;
+~~~
+### 相关题目
+[[LC 786. 第 K 个最小的素数分数]]
