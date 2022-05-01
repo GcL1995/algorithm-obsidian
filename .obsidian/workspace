@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codeforces/constructive_algorithm/1500/CF 1426 D. Non-zero Segments.md",
+            "file": "codeforces/constructive_algorithm/1500/CF 1419 D2. Sage's Birthday (hard version).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "双指针",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codeforces/constructive_algorithm/1500/CF 1426 D. Non-zero Segments.md",
+                "file": "codeforces/constructive_algorithm/1500/CF 1419 D2. Sage's Birthday (hard version).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "58a467c17725d99e",
   "lastOpenFiles": [
-    "codeforces/constructive_algorithm/1500/CF 1426 D. Non-zero Segments.md",
-    "leetcode/2200/LC 992. K 个不同整数的子数组.md",
-    "leetcode/2100/LC 906. 超级回文数.md",
-    "leetcode/周赛/WC 268. k镜像数字的和.md",
-    "codeforces/constructive_algorithm/1500/CF 1439 A1. Binary Table (Easy Version).md",
-    "leetcode/2100/LC 1568. 使陆地分离的最少天数.md",
-    "算法模板/搜索与图论/高级/强连通分量.md",
-    "算法模板/搜索与图论/中级/最近公共祖先-倍增法.md",
-    "算法模板/搜索与图论/初级/最近公共祖先-向上标记法.md",
-    "算法模板/基础算法/字符串/KMP.md"
+    "codeforces/constructive_algorithm/1500/CF 1419 D2. Sage's Birthday (hard version).md",
+    "codeforces/constructive_algorithm/1500/CF 1400 C. Binary String Reconstruction.md",
+    "codeforces/constructive_algorithm/1500/CF 1399 D. Binary String To Subsequences.md",
+    "codeforces/constructive_algorithm/1500/CF 1368 C. Even Picture.md",
+    "codeforces/constructive_algorithm/1500/CF 1372 C - Omkar and Baseball.md",
+    "算法模板/基础算法/双指针.md",
+    "codeforces/constructive_algorithm/1300/962B. Students in Railway Carriage.md",
+    "算法模板/数学/最大公约数.md",
+    "算法模板/数学/博弈论.md",
+    "算法模板/数学/分解质因数.md"
   ]
 }
