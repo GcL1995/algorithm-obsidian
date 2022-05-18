@@ -88,3 +88,4 @@ public:
 [[WC 264.并行课程 III]]
 [[CF 1611D. Weights Assignment For Tree Edges]]
 [[CF 1667B. Optimal Partition]]
+[[WC 291. 字符串的总引力]]

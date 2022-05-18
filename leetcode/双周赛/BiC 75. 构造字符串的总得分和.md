@@ -1,6 +1,12 @@
 #### [6036. 构造字符串的总得分和](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings/)
+#字符串哈希 #二分 #扩展KMP 
+> 题目大意：
+> 	给定一个字符串p, 求这个字符串的所有后缀子串与p的最长公共前缀的长度和
 ##### 法一 字符串哈希
 ~~~c++
+/*
+字符串哈希 + 遍历 + 二分
+*/
 typedef unsigned long long ULL;
 typedef long long LL;
 
@@ -53,6 +59,10 @@ public:
 #扩展KMP 
 ###### c++
 ~~~c++
+/*
+扩展KMP：
+
+*/
 typedef long long LL; 
 class Solution {
 public:

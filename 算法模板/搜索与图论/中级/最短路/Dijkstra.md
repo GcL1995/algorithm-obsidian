@@ -29,10 +29,10 @@ using namespace std;
 
 typedef pair<int, int> PII;
 
-const int N = 1e6 + 10;
+const int N = 1e6 + 10, M = 2 * N;
 
 int n, m; 
-int h[N], w[N], e[N], ne[N], idx; 
+int h[N], w[M], e[M], ne[M], idx; 
 int dist[N]; 
 bool st[N]; 
 
@@ -85,4 +85,4 @@ int main() {
 ~~~
 
 ## 相关题目
-[[WC 284. 得到要求路径的最小带权子图#6032 得到要求路径的最小带权子图 https leetcode-cn com problems minimum-weighted-subgraph-with-the-required-paths]]
+[[WC 284. 得到要求路径的最小带权子图]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "58a467c17725d99e",
+        "id": "c80ec73fb2e72471",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codeforces/constructive_algorithm/1500/CF 1419 D2. Sage's Birthday (hard version).md",
+            "file": "算法模板/搜索与图论/高级/欧拉回路和欧拉路径.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "双指针",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codeforces/constructive_algorithm/1500/CF 1419 D2. Sage's Birthday (hard version).md",
+                "file": "算法模板/搜索与图论/高级/欧拉回路和欧拉路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58a467c17725d99e",
+  "active": "c80ec73fb2e72471",
   "lastOpenFiles": [
-    "codeforces/constructive_algorithm/1500/CF 1419 D2. Sage's Birthday (hard version).md",
-    "codeforces/constructive_algorithm/1500/CF 1400 C. Binary String Reconstruction.md",
-    "codeforces/constructive_algorithm/1500/CF 1399 D. Binary String To Subsequences.md",
-    "codeforces/constructive_algorithm/1500/CF 1368 C. Even Picture.md",
-    "codeforces/constructive_algorithm/1500/CF 1372 C - Omkar and Baseball.md",
-    "算法模板/基础算法/双指针.md",
-    "codeforces/constructive_algorithm/1300/962B. Students in Railway Carriage.md",
-    "算法模板/数学/最大公约数.md",
-    "算法模板/数学/博弈论.md",
-    "算法模板/数学/分解质因数.md"
+    "算法模板/搜索与图论/高级/欧拉回路和欧拉路径.md",
+    "codeforces/constructive_algorithm/1600/CF 1671 D. Insert a Progression.md",
+    "codeforces/constructive_algorithm/1600/CF 1660E. Matrix and Shifts.md",
+    "codeforces/constructive_algorithm/1600/CF 1555D. Say No to Palindromes.md",
+    "codeforces/constructive_algorithm/1600/CF 1530D. Secret Santa.md",
+    "codeforces/constructive_algorithm/1600/CF 1511D. Min Cost String.md",
+    "leetcode/周赛/WC 270. 从二叉树一个节点到另一个节点每一步的方向.md",
+    "算法模板/搜索与图论/初级/DFS.md",
+    "算法模板/搜索与图论/中级/匈牙利算法.md",
+    "算法模板/搜索与图论/高级/最近公共祖先-倍增法.md"
   ]
 }
