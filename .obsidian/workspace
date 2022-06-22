@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "leetcode/双周赛/BiC 72. 统计数组中好三元组数目.md",
+            "file": "codeforces/constructive_algorithm/1800/CF 1666C. Connect the Points.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "统计",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/双周赛/BiC 72. 统计数组中好三元组数目.md",
+                "file": "codeforces/constructive_algorithm/1800/CF 1666C. Connect the Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "04f66cf5df581624",
   "lastOpenFiles": [
-    "leetcode/双周赛/BiC 72. 统计数组中好三元组数目.md",
-    "算法模板/中级数据结构/树状数组.md",
-    "算法模板/贪心/贪心.md",
-    "codeforces/constructive_algorithm/1600/CF 723C. Polycarp at the Radio.md",
-    "leetcode/周赛/WC 296. 设计一个文本编辑器.md",
-    "leetcode/双周赛/BiC 76. 节点序列的最大得分.md",
-    "leetcode/双周赛/BiC 75. 构造字符串的总得分和.md",
-    "leetcode/双周赛/BiC 78. 最大波动的子字符串.md",
-    "leetcode/双周赛/BiC 79. 以组为单位订音乐会的门票.md",
-    "leetcode/LCP/LCP 52. 二叉搜索树染色.md"
+    "codeforces/constructive_algorithm/1800/CF 1666C. Connect the Points.md",
+    "算法模板/数学/博弈论.md",
+    "leetcode/2200/LC 1851. 包含每个查询的最小区间.md",
+    "leetcode/2200/LC 1569. 将子数组重新排序得到同一个二叉查找树的方案数.md",
+    "算法模板/数学/组合数.md",
+    "leetcode/面试/LC 146. LRU 缓存.md",
+    "README.md",
+    "leetcode/周赛/WC 261.含特定字母的最小子序列.md",
+    "leetcode/周赛/WC 293. 统计区间中的整数数目.md",
+    "算法模板/中级数据结构/线段树.md"
   ]
 }

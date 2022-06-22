@@ -1,4 +1,3 @@
-# D
 #### [5999. 统计数组中好三元组数目](https://leetcode-cn.com/problems/count-good-triplets-in-an-array/)
 #树状数组 
 > 题目大意：
