@@ -5,6 +5,9 @@
 ## 小猫爬山
 #DFS 
 [acwing 165](https://www.acwing.com/problem/content/description/167/)
+> 题目大意：
+> 	一共N只小猫，第i只小猫重量用w[i]表示， 索道上缆车的承重是W， 问最少需要多少个缆车才能将小猫全部运下去。
+> 提示一：
 ~~~c++
 #include <iostream>
 
