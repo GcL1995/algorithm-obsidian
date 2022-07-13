@@ -77,3 +77,5 @@ public:
     }
 };
 ~~~
+[[LC 53. 最大子数组和]]
+[[CF 788A. Functions again]]

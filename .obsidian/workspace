@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bffec48bc7b5fb11",
+        "id": "40914f6e8ec185cd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "leetcode/2200/LC 761. 特殊的二进制序列.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/2200/LC 761. 特殊的二进制序列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bffec48bc7b5fb11",
+  "active": "40914f6e8ec185cd",
   "lastOpenFiles": [
-    "leetcode/2200/LC 761. 特殊的二进制序列.md",
-    "codeforces/constructive_algorithm/1800/CF 1583D. Omkar and the Meaning of Life.md",
-    "codeforces/global round/round21/D. Permutation Graph.md",
-    "codeforces/global round/round21/C. Fishingprince Plays With Array.md",
-    "codeforces/global round/round21/B. NIT Destroys the Universe.md",
-    "codeforces/global round/round21/A. NIT orz!.md",
-    "codeforces/global round/CF.md",
-    "leetcode/周赛/WC 299. 从树中删除边的最小分数.md",
-    "leetcode/周赛/WC 292. 检查是否有合法括号字符串路径.md",
-    "codeforces/div2/round801/C. Zero Path.md"
+    "算法模板/暴力/暴力.md",
+    "leetcode/2200/LC 1263. 推箱子.md",
+    "codeforces/div2/edu131/D. Permutation Restoration.md",
+    "codeforces/div2/Untitled.md",
+    "codeforces/div2/round801/C. Zero Path.md",
+    "codeforces/div2/round801/D1. Tree Queries (Easy Version).md",
+    "codeforces/current_practice/1400/CF 1513B. AND Sequences.md",
+    "codeforces/current_practice/1300/1300-1.md",
+    "leetcode/2100/LC 1862. 向下取整数对和.md",
+    "leetcode/周赛/WC 301D.统计理想数组的数目.md"
   ]
 }

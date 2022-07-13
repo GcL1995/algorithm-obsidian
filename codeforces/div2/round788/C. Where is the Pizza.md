@@ -1,4 +1,13 @@
 [C. Where is the Pizza?](https://codeforces.com/contest/1670/problem/C)
+#并查集 
+> 题目大意：
+> 	两个n的排列，a 和 b
+> 	求问可以构造出多少中排列c，满足
+> 	c[i] == a[i] || c[i] == b[i]
+> 提示一：记不记得b站上看的那个脑筋急转弯？[反直觉智力题](https://www.bilibili.com/video/BV1kt4y1t75F?spm_id_from=333.880.my_history.page.click&vd_source=1eed22760e8996911978e95be02bb5f2)
+	提示二：a和b中每个元素可以向外连两条边，一个是a[i]和b[i]相连，一条是a[i] == b[j]，那么a[i]和b[j]相连。这样必然形成多个欧拉环。这个和提示一是否也有联系呢？
+	提示三：提示二中的一个欧拉环的元素，要满足构造出来序列的性质，意味着要么全选a要么全选b。
+	提示四：使用并查集，如果最终元素数量大于1的并查集数目为p。res = 2^p
 ~~~c++
 /*
 i. 如果a, b中的几个元素单独构成一个permutation且删除掉任何一个元素都不构成，那么这几个元素要么同属于a要么同属于b
