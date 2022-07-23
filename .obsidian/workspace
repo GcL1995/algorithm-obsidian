@@ -7,8 +7,13 @@
         "id": "40914f6e8ec185cd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ACW算法提高/DP/背包问题/01背包/ACW 426. 开心的金明.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ACW算法提高/DP/背包问题/01背包/ACW 426. 开心的金明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +98,15 @@
   },
   "active": "40914f6e8ec185cd",
   "lastOpenFiles": [
-    "算法模板/暴力/暴力.md",
-    "leetcode/2200/LC 1263. 推箱子.md",
-    "codeforces/div2/edu131/D. Permutation Restoration.md",
-    "codeforces/div2/Untitled.md",
-    "codeforces/div2/round801/C. Zero Path.md",
-    "codeforces/div2/round801/D1. Tree Queries (Easy Version).md",
-    "codeforces/current_practice/1400/CF 1513B. AND Sequences.md",
-    "codeforces/current_practice/1300/1300-1.md",
-    "leetcode/2100/LC 1862. 向下取整数对和.md",
-    "leetcode/周赛/WC 301D.统计理想数组的数目.md"
+    "ACW算法提高/DP/背包问题/分组背包/ACW 1013. 机器分配.md",
+    "ACW算法提高/DP/背包问题/二维费用背包/ACW 1020. 潜水员.md",
+    "ACW算法提高/DP/背包问题/二维费用背包/ACW 8. 二维费用的背包问题.md",
+    "ACW算法提高/DP/背包问题/混合背包/ACW 7. 混合背包问题.md",
+    "算法基础/基础算法/快速幂.md",
+    "ACW算法提高/DP/背包问题/多重背包/ACW 1019. 庆功会.md",
+    "算法基础/DP/背包问题/多重背包问题.md",
+    "算法基础/暴力/暴力.md",
+    "ACW算法提高/DP/背包问题/多重背包/ACW 6. 多重背包问题 III.md",
+    "算法基础/DP/背包问题/01背包.md"
   ]
 }

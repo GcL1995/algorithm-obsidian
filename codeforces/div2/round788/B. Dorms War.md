@@ -1,4 +1,5 @@
 [B. Dorms War](https://codeforces.com/contest/1670/problem/B)
+#构造题
 > 题目大意：
 >  一个01字符串， 一次操作每个1前面的字符都会消失
 >  问多少次操作之后，字符串的操作不会发生变化
