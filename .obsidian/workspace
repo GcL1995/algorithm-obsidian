@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ACW算法提高/DP/背包问题/01背包/ACW 426. 开心的金明.md",
+            "file": "ACW算法提高/DP/背包问题/分组背包/AcW 487. 金明的预算方案.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACW算法提高/DP/背包问题/01背包/ACW 426. 开心的金明.md",
+                "file": "ACW算法提高/DP/背包问题/分组背包/AcW 487. 金明的预算方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "40914f6e8ec185cd",
   "lastOpenFiles": [
+    "各语言语法/leetcode/c++.md",
     "ACW算法提高/DP/背包问题/分组背包/ACW 1013. 机器分配.md",
-    "ACW算法提高/DP/背包问题/二维费用背包/ACW 1020. 潜水员.md",
-    "ACW算法提高/DP/背包问题/二维费用背包/ACW 8. 二维费用的背包问题.md",
-    "ACW算法提高/DP/背包问题/混合背包/ACW 7. 混合背包问题.md",
-    "算法基础/基础算法/快速幂.md",
-    "ACW算法提高/DP/背包问题/多重背包/ACW 1019. 庆功会.md",
-    "算法基础/DP/背包问题/多重背包问题.md",
-    "算法基础/暴力/暴力.md",
-    "ACW算法提高/DP/背包问题/多重背包/ACW 6. 多重背包问题 III.md",
-    "算法基础/DP/背包问题/01背包.md"
+    "ACW算法提高/DP/背包问题/有依赖背包/AcWing 10. 有依赖的背包问题.md",
+    "ACW算法提高/DP/背包问题/01背包/ACW 734. 能量石.md",
+    "ACW算法提高/DP/背包问题/背包问题求具体方案/ACW 12. 背包问题求具体方案.md",
+    "ACW算法提高/DP/背包问题/README.md",
+    "ACW算法提高/DP/背包问题/背包问题求方案数/ACW 11. 背包问题求方案数.md",
+    "ACW算法提高/DP/背包问题/01背包/ACW 278. 数字组合.md",
+    "leetcode/周赛/WC 303. 优质数对的数目.md",
+    "leetcode/双周赛/BiC 83.不可能得到的最短骰子序列.md"
   ]
 }
